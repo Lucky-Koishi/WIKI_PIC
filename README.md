@@ -1,0 +1,2 @@
+# WIKI_PIC
+WIKI用的图片
